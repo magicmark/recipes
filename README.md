@@ -1,3 +1,3 @@
 # recipes
 
-a repo for food that i make 🥦 🥖 🍖
+a repo for food that i make 🍖 🥦 🥖
