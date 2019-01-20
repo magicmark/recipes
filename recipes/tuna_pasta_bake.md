@@ -5,7 +5,6 @@ Serves 4-5
 ## Ingredients
 
 - 8 oz Short cut macaroni
-- 1/2 Small onion
 - 1 oz Butter
 - 1 oz Flour
 - 2 oz Grated cheese, plus extra for topping
