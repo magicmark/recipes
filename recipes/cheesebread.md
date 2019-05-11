@@ -23,4 +23,4 @@ Makes 6-8
 4. Stop the mixer and pour in the cheese. Mix on low for 40 to 50 seconds, just enough to blend the cheeses into the dough.
 5. Refrigerate for at least 2 hours or overnight.
 6. Heat the oven to 375 degrees. Place rounded lumps (about the size of a squash ball) an inch apart
-7. Bake for 20, until the flecks of cheese are brown and the crust is lightly golden. Serve warm!
+7. Bake for 20 minutes, until the flecks of cheese are brown and the crust is lightly golden. Serve warm!
