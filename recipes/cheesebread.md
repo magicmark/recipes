@@ -7,7 +7,7 @@ Makes 6-8
 ## Ingredients
 
 - 335 grams tapioca starch
-- 9 grams salt (taste the cheese first to guage how much salt to add - cotija can be very salty)
+- 9 grams salt (taste the cheese first to gauge how much salt to add - cotija can be very salty)
 - 1/2 teaspoon baking powder
 - 2/3 cup whole milk
 - 1/4 cup canola oil
