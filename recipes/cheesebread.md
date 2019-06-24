@@ -6,6 +6,7 @@ Makes 6-8
 
 ## Ingredients
 
+- 170 grams grated Cotija cheese
 - 335 grams tapioca starch
 - 9 grams salt (taste the cheese first to gauge how much salt to add - cotija can be very salty)
 - 1/2 teaspoon baking powder
@@ -13,7 +14,6 @@ Makes 6-8
 - 1/4 cup canola oil
 - 1.5 tablespoons butter, softened
 - 2 large eggs
-- 170 grams grated Cotija cheese
 
 ## Method
 

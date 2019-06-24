@@ -1,9 +1,10 @@
 # Recipes
 
-a repo for food that i make 🍖 🥦 🥖
+A repo for food that I make 🍖 🥦 🥖
 
 ## List of recipes
 
+- [Bagels](recipes/bagels.md)
 - [Cheesebread (Pão de queijo)](recipes/cheesebread.md)
 - [Steak and Ale Pie](recipes/steak_and_ale_pie.md)
 - [Tuna Pasta Bake](recipes/tuna_pasta_bake.md)
