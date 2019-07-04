@@ -19,8 +19,13 @@ Makes 6-8
 
 1. In a stand mixer (dough hook), blend the tapioca starch, salt and baking powder on low speed.
 2. Put the milk, oil, butter and 2/3 cup water in a small pot and bring to boil. Immediately pour it over the starch and mix at low speed until all the ingredients are blended and the dough is smooth, about 3 or 4 minutes.
-3. Stop the mixer and mix in the eggs. Mix at low speed for ~5 minutes (until the dough becomes sticky)
+3. Stop the mixer and mix in the eggs. Mix at low speed for ~5 minutes (until the dough becomes sticky).
 4. Stop the mixer and pour in the cheese. Mix on low for 40 to 50 seconds, just enough to blend the cheeses into the dough.
 5. Refrigerate for at least 2 hours or overnight.
 6. Heat the oven to 375 degrees. Place rounded lumps (about the size of a squash ball) an inch apart
 7. Bake for 20 minutes, until the flecks of cheese are brown and the crust is lightly golden. Serve warm!
+
+## Notes
+
+- When adding the eggs, it will look like the mixture won't come together - gradually move it to the highest speed if necessary, and it will.
+- Pro-tip: Do step 2 first, and whilst it's boiling, prepare step 1!
