@@ -30,7 +30,8 @@ Serves 4-5
     - fire roasted tomatoes with chile (normal can size)
     - splash of worcestershire sauce
     - (can wait till near the end) potatoes
-6. After beef is nice and tender, mash up the potates into the broth to thicken it
+6. Keep warm (no more than a slight simmer) for a few hours
+7. After beef is nice and tender, mash up the potates into the broth to thicken it
 
 ## Notes
 
