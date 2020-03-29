@@ -21,15 +21,15 @@ Serves 4-5
 3. Peel 2 big garlic cloves
 4. Make 1 cup of beef stock (bouillon or otherwise)
 5. Add to the pot:
-    - carrots (layer the bottom)
-    - beef
-    - whole garlic cloves
-    - beef stock (1 pound?)
-    - bay leaf
-    - half a bottle of red wine
-    - fire roasted tomatoes with chile (normal can size)
-    - splash of worcestershire sauce
-    - (can wait till near the end) potatoes
+   - carrots (layer the bottom)
+   - beef
+   - whole garlic cloves
+   - beef stock (1 pound?)
+   - bay leaf
+   - half a bottle of red wine
+   - fire roasted tomatoes with chile (normal can size)
+   - splash of worcestershire sauce
+   - (can wait till near the end) potatoes
 6. Keep warm (no more than a slight simmer) for a few hours
 7. After beef is nice and tender, mash up the potates into the broth to thicken it
 
