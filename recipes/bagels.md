@@ -1,8 +1,9 @@
+---
+serves: 12
+source: "Forked from Baking Artisan Bread"
+---
+
 # Bagels
-
-Makes 12
-
-_Forked from Baking Artisan Bread_
 
 ## Ingredients
 

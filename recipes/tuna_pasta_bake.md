@@ -1,6 +1,10 @@
-# Tuna Pasta Bake
+---
+serves: 4-5
+source: "Mum"
+tags: [family]
+---
 
-Serves 4-5
+# Tuna Pasta Bake
 
 ## Ingredients
 

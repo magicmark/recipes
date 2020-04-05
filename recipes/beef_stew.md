@@ -1,6 +1,9 @@
-# Beef Stew
+---
+serves: 4-5
+source: Natalie
+---
 
-Serves 4-5
+# Beef Stew
 
 ## Ingredients
 
