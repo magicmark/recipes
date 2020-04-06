@@ -10,10 +10,10 @@ Cook Time: 10 min
 
 ## Ingredients
 
-• 2 Egg, or 1 egg and 2 yolks
-• 8 oz Shredded Coconut, or more
-• 5 oz Granulated Sugar, aka caster
-• 1 Lemons, juice thereof
+- 2 Egg, or 1 egg and 2 yolks
+- 8 oz Shredded Coconut, or more
+- 5 oz Granulated Sugar, aka caster
+- 1 Lemons, juice thereof
 
 ## Method
 
