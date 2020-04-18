@@ -1,5 +1,5 @@
 ---
-source: "Grandma Meryl"
+source: Grandma Meryl
 tags: [soup, pesach, family]
 ---
 

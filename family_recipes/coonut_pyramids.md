@@ -1,5 +1,5 @@
 ---
-source: "Grandma Meryl"
+source: Grandma Meryl
 tags: [pesach, family]
 serves: 16
 ---

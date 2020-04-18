@@ -1,6 +1,7 @@
 ---
-source: "Mrs. Greenberg"
+source: Mrs. Greenberg
 tags: [pesach]
+serves: 2-3 jars
 ---
 
 # Lemon Curd

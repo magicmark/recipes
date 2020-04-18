@@ -1,5 +1,5 @@
 ---
-source: "Grandma Sheila"
+source: Grandma Sheila
 tags: [pesach, family]
 ---
 

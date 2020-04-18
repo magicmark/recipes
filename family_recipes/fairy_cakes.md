@@ -1,5 +1,5 @@
 ---
-source: "Aunty Celia"
+source: Aunty Celia
 tags: [pesach, family]
 serves: 24
 ---
