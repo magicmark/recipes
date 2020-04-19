@@ -1,4 +1,4 @@
-name: Greet Everyone
+name: Upload recipes.json to s3
 on:
   push:
     branches:
