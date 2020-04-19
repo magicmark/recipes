@@ -16,5 +16,10 @@
     "hooks": {
       "pre-commit": "yarn lint"
     }
+  },
+  "dependencies": {
+    "change-case": "^4.1.1",
+    "globby": "^11.0.0",
+    "gray-matter": "^4.0.2"
   }
 }
