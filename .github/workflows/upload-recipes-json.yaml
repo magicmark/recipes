@@ -22,7 +22,7 @@ jobs:
         run: ./tools/dump_recipes.js > recipes.json
       - name: Upload recipes.json to s3
         run: |
-            aws s3 cp recipes.json s3://mark42/recipes.json
+            aws s3 cp recipes.json s3://markl42/recipes.json
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
