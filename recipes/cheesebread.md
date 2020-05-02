@@ -1,3 +1,9 @@
+---
+source: New York Times
+tags: [cheese, bread, baking]
+serves: 6-8
+---
+
 # Cheesebread (Pão de queijo)
 
 Makes 6-8

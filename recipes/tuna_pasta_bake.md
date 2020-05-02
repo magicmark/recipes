@@ -1,7 +1,7 @@
 ---
-serves: 4-5
-source: "Mum"
+source: Mum
 tags: [family]
+serves: 4
 ---
 
 # Tuna Pasta Bake

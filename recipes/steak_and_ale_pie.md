@@ -1,6 +1,10 @@
-# Steak and Ale Pie
+---
+source: Gordon Ramsay
+tags: [pie]
+serves: 4
+---
 
-Serves 4
+# Steak and Ale Pie
 
 [Original Source](https://hillaryshort.wordpress.com/tag/gordon-ramsays-steak-and-guiness-pie/)
 
