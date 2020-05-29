@@ -11,6 +11,7 @@ source: Natalie
 - 2 large potatoes
 - 1 can fire roasted tomatoes
 - bay leaf
+- 1 big onion
 - 1/2 bottle red wine
 - 1lb of cubed stew beef (?)
 - worcestershire sauce
@@ -21,18 +22,21 @@ source: Natalie
 
 1. Chop carrots into normal carrot sized chunks
 2. Peel potatoes, chop into big chunks
-3. Peel 2 big garlic cloves
-4. Make 1 cup of beef stock (bouillon or otherwise)
-5. Add to the pot:
+3. Chop the onion into super duper tiny pieces
+4. Peel 2 big garlic cloves
+5. Make 1 cup of beef stock (bouillon or otherwise)
+6. Add to the pot:
    - carrots (layer the bottom)
    - beef
    - whole garlic cloves
-   - beef stock (1 pound?)
+   - beef stock (1-3 cips?)
    - bay leaf
+   - onion
    - half a bottle of red wine
    - fire roasted tomatoes with chile (normal can size)
    - splash of worcestershire sauce
    - (can wait till near the end) potatoes
+   - Add enough liquid to reach the top of the meat
 6. Keep warm (no more than a slight simmer) for a few hours
 7. After beef is nice and tender, mash up the potates into the broth to thicken it
 
