@@ -25,3 +25,7 @@ serves: 4
 6. Take off light and add in cheese, tuna and macaroni
 7. Turn into well buttered casserole and sprinkle with extra cheese
 8. Bake for 15-20 minutes 190C 400 F until brown and bubbly OR put under grill until brown and crunchy
+
+## Notes
+
+- Add nutmeg, mustard and worcestershire sauce
