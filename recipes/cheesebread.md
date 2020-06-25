@@ -18,7 +18,7 @@ Makes 6-8
 - 1/2 teaspoon baking powder
 - 2/3 cup whole milk
 - 1/4 cup canola oil
-- 1.5 tablespoons butter, softened
+- 1.5 tablespoons (21g) butter, softened
 - 2 large eggs
 
 ## Method
