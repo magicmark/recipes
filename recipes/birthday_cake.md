@@ -1,5 +1,6 @@
 # Birthday Cake
 
-http://paulhollywood.com/recipes/victoria-sponge/
+http://paulhollywood.com/recipes/victoria-sponge/ (appears to be down)
+https://web.archive.org/web/20191026085655/https://www.paulhollywood.com/recipes/victoria-sponge
 
-Uus Fondant Icing (Not buttercream!). I used wilton brand.
+Use Fondant Icing (Not buttercream!). I used wilton brand.
