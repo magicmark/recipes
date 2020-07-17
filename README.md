@@ -2,7 +2,7 @@
 
 A repo for food that I make 🍖 🥦 🥖
 
-## List of recipes
+## List of favorite recipes
 
 - [Bagels](recipes/bagels.md)
 - [Cheesebread (Pão de queijo)](recipes/cheesebread.md)
