@@ -6,6 +6,8 @@ serves: 24
 
 # Fairy Cakes
 
+Yum!
+
 ## Ingredients
 
 - 4 Eggs, large

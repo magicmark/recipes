@@ -6,6 +6,8 @@ serves: 3
 
 # Carrot Soup
 
+Yum!
+
 ## Ingredients
 
 | Amount | Ingredient                 |

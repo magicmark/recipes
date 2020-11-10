@@ -6,6 +6,8 @@ serves: 2-3 jars
 
 # Lemon Curd
 
+Yum!
+
 ## Ingredients
 
 - 3 oz Butter

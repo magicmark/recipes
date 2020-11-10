@@ -5,6 +5,8 @@ tags: [soup, pesach, family]
 
 # Lentil Soup
 
+Yum!
+
 ## Ingredients
 
 - 1 oz Margarine

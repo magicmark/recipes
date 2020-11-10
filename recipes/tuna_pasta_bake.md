@@ -6,6 +6,8 @@ serves: 4
 
 # Tuna Pasta Bake
 
+Yum!
+
 ## Ingredients
 
 - 8 oz Short cut macaroni

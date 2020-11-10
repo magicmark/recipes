@@ -5,6 +5,8 @@ source: Natalie
 
 # Beef Stew
 
+Yum!
+
 ## Ingredients
 
 - 5 large carrots (?)
@@ -37,8 +39,8 @@ source: Natalie
    - splash of worcestershire sauce
    - (can wait till near the end) potatoes
    - Add enough liquid to reach the top of the meat
-6. Keep warm (no more than a slight simmer) for a few hours
-7. After beef is nice and tender, mash up the potates into the broth to thicken it
+7. Keep warm (no more than a slight simmer) for a few hours
+8. After beef is nice and tender, mash up the potates into the broth to thicken it
 
 ## Notes
 
