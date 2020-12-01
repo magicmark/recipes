@@ -9,8 +9,6 @@ Yum!
 
 ## Ingredients
 
-Corn Pudding 
-
 - 5 eggs
 - 1/4 cup milk
 - 1/2 cup flour
@@ -20,11 +18,11 @@ Corn Pudding
 
 ## Method
 
-- Preheat oven to 325 degrees 
-- Separate yolks from egg whites. Beat whites until stiff. (I do this first so I can use the electric beater without washing it.) 
-- Beat yolks with electric mixer and add milk, flour, butter, cream style corn and salt. 
-- Fold in egg whites. Pour into greased baking dish (I use 2.8 liter that I think is about 3 quart size). 
-- Bake for about 1 hour. 
+- Preheat oven to 325 degrees
+- Separate yolks from egg whites. Beat whites until stiff. (I do this first so I can use the electric beater without washing it.)
+- Beat yolks with electric mixer and add milk, flour, butter, cream style corn and salt.
+- Fold in egg whites. Pour into greased baking dish (I use 2.8 liter that I think is about 3 quart size).
+- Bake for about 1 hour.
 
 ## Notes
 
