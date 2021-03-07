@@ -40,4 +40,4 @@ This is my attempt at reverse engineering
 - I used roughly half a 425g tub of lucerne part skim ricotta cheese
 - I did 50/50 00 and semolina flour for the raviloi pasta dough
 - Spice mix derived from [flavormosaic.com](https://flavormosaic.com/chicken-seasoning-for-roasted-or-rotisserie-chicken/).
-  - Go very light on the paprika, it's overwhelming.
+- Go very light on the paprika, it's overwhelming.
