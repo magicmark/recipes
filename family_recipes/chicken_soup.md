@@ -12,7 +12,7 @@ Yum!
 - 1 Hen
 - 1 Leek
 - 1 Onion
-- 2/3 Carrots
+- 2 or 3 Carrots
 - Parsnip, 1 inch
 - Turnip, half inch slice
 - 2 Celery, sticks of. or powder
