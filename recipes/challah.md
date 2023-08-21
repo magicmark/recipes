@@ -27,4 +27,5 @@ For the dough:
 3. Divide the dough into 12 preshaped cylinders
 4. Roll them out into sausages and braid 2 challahs
 5. Let rise again for ~1 hour
-6. Bake in a preheated oven at 375ºf until the inside measures 190ºf - about 30 minutes
+6. Add an egg wash and poppy seeds
+7. Bake in a preheated oven at 375ºf until the inside measures 190ºf - about 30 minutes
