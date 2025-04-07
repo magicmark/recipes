@@ -1,0 +1,4 @@
+- pad kra pao (https://www.youtube.com/watch?v=RS8yo3JEkoA)
+- sirloin steak tips (baking soda salt brine fridge)
+- trout
+- chicken and rice https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-chicken-and-rice-8133711
